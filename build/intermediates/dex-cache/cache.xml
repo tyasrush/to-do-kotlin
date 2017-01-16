@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_671b4bb98248ed5c6c67758794f9afcdc94072a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.6_00a276ec4bb0e4a482568bed0d91ed8397cc9c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_25800e3ede364f660f4ed724d334fe89290237a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.jakewharton/kotterknife/0.1.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a2ca8753b1892bf3efd3243af399cbf5fc64329">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-kotterknife-0.1.0-SNAPSHOT_ee76f36b327d9c4162da012346cd4692dc93a3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_fe7b3abcf1fbb2596dc583240a4d85c01ba06dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_3f2372afb266bd196f28c03f1f51a14e618111df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_2194ecbd09f09904adde63176b70e24ad06efa54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_81093b1bc797b9111ff35ed1f47a3c0ae0dc75d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_a5650ae0c5d55a45d0f8b3a2bc5e1f38be1cc0fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1edeb276646896d3fffda7e1dfb6d7045d44da19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e2fb3cd3f6a29839fd32632264d0f31d587bcab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_5cc097a191952934391b645279b7d3a7d97d1936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_cf65660d7ff4bb691d869d003db0338905f440fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.6_29e09736cb0119f385866ac54568613cf75a87f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_671b4bb98248ed5c6c67758794f9afcdc94072a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_7b782cf6af5dbdb38e217ee559f841ed554e20ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_744a984a6553fb808ef4871631745ee0f0532b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_e82275ab0da029cc00d94c3a93ffda147132cd0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_a5650ae0c5d55a45d0f8b3a2bc5e1f38be1cc0fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.6/3562c66f648480d3bd4f76cff722488ced13445b/kotlin-runtime-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3562c66f648480d3bd4f76cff722488ced13445b">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-runtime-1.0.6_00a276ec4bb0e4a482568bed0d91ed8397cc9c19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d32aaed5c7820a0c4422f4d91b1036e2191894b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_6d2b4600111e7718b49ffd7ce2d4c0257c423ef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e71fdc8fee555327a79dc763e7256a96de9f71f">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_90bc7f0e3ec070465cd9ca60793645f7ad0d1ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_1edeb276646896d3fffda7e1dfb6d7045d44da19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="07aab271b873db1699ff62c809fdbbfeb3989bac">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c3714360a51ce6df915d069e01e007b51e75e65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cca6c4a956c7a17a3ee377fdaa1fd18ebe53a1fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_6140a2edb80e8de6db12e70a41cfaaa7b26123e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_e82275ab0da029cc00d94c3a93ffda147132cd0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_7bcff10febe9b8dd0e1abf011db055baf8fa0fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_744a984a6553fb808ef4871631745ee0f0532b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_6d2b4600111e7718b49ffd7ce2d4c0257c423ef6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="973f4b88a62800e0c73979704f4759d8f1b2693c">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_90bc7f0e3ec070465cd9ca60793645f7ad0d1ca9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d32aaed5c7820a0c4422f4d91b1036e2191894b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_3f2372afb266bd196f28c03f1f51a14e618111df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_25800e3ede364f660f4ed724d334fe89290237a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_7b782cf6af5dbdb38e217ee559f841ed554e20ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_2194ecbd09f09904adde63176b70e24ad06efa54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_81093b1bc797b9111ff35ed1f47a3c0ae0dc75d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cca6c4a956c7a17a3ee377fdaa1fd18ebe53a1fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.6/d19acb6ed49b9c48228c0e5dff8071fce23be4b8/kotlin-stdlib-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d19acb6ed49b9c48228c0e5dff8071fce23be4b8">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.0.6_29e09736cb0119f385866ac54568613cf75a87f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_7bcff10febe9b8dd0e1abf011db055baf8fa0fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_6140a2edb80e8de6db12e70a41cfaaa7b26123e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07aab271b873db1699ff62c809fdbbfeb3989bac">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5c3714360a51ce6df915d069e01e007b51e75e65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e2fb3cd3f6a29839fd32632264d0f31d587bcab4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.jakewharton/kotterknife/0.1.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a2ca8753b1892bf3efd3243af399cbf5fc64329">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-kotterknife-0.1.0-SNAPSHOT_ee76f36b327d9c4162da012346cd4692dc93a3d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_cf65660d7ff4bb691d869d003db0338905f440fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_fe7b3abcf1fbb2596dc583240a4d85c01ba06dd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_5cc097a191952934391b645279b7d3a7d97d1936/classes.dex" />
+    </item>
+
+</items>
