@@ -46,7 +46,6 @@ class MainActivity : AppCompatActivity() {
         recyclerMain.hasFixedSize()
         recyclerMain.adapter = MainAdapter(itemList)
 
-
         fabButton.setOnClickListener { view -> startActivity(Intent(this, AddActivity::class.java)) }
     }
 

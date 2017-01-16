@@ -23,7 +23,6 @@ class AddActivity : AppCompatActivity() {
         setSupportActionBar(toolbar)
         title = "Add To Do"
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
-
     }
 
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
