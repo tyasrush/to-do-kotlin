@@ -7,9 +7,8 @@ import java.util.*
 /**
  * Created by tyas on 1/16/17.
  */
-data class Todo(val value: Int) : Parcelable {
+data class Todo(val id: Int) : Parcelable {
 
-    var id: Int = 0
     var name: String = ""
     var time: Date = Date()
 
@@ -25,6 +24,6 @@ data class Todo(val value: Int) : Parcelable {
     override fun describeContents() = 0
 
     override fun writeToParcel(dest: Parcel?, flags: Int) {
-        dest?.writeInt(value)
+        dest?.writeInt(id)
     }
 }

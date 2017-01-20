@@ -30,15 +30,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.jakewharton/kotterknife/0.1.0-SNAPSHOT/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2a2ca8753b1892bf3efd3243af399cbf5fc64329">
-        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-kotterknife-0.1.0-SNAPSHOT_ee76f36b327d9c4162da012346cd4692dc93a3d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -63,6 +54,15 @@
         revision="25.0.1"
         sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
         <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_2194ecbd09f09904adde63176b70e24ad06efa54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tyas/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_ce0bbd5de971ac207d0f4303a04e5dde6ee2f41c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -396,15 +396,6 @@
         revision="25.0.1"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
         <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e2fb3cd3f6a29839fd32632264d0f31d587bcab4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/exploded-aar/com.jakewharton/kotterknife/0.1.0-SNAPSHOT/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2a2ca8753b1892bf3efd3243af399cbf5fc64329">
-        <dex dex="/Users/tyas/workspace/android-studio/Kotlin-Todo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-kotterknife-0.1.0-SNAPSHOT_ee76f36b327d9c4162da012346cd4692dc93a3d8/classes.dex" />
     </item>
     <item
         is-multidex="true"
